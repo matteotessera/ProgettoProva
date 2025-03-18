@@ -4,8 +4,6 @@ function Body(){
     return (
         <div>
             <Form/>            
-            <Form/>
-
         </div>
 
     )

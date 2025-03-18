@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #cffcff;
+    width: 100%;
+    height: 70px
+}
+
+.navbar-list{
+    color:#242424;
+    display: flex;
+    gap: 10px;
+}
